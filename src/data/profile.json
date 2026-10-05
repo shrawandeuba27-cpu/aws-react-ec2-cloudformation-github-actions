@@ -1,17 +1,17 @@
 {
-  "name": "Sammy",
+  "name": "Shrawan Deuba",
   "tagline": "DevOps & Cloud Engineer in the making ",
-  "photo": "profile.png",
+  "photo": "images.jpg",
   "roll": "4447",
   "department": "Computer Engineering",
   "year": "2020",
-  "email": "bhattsameer4447@gmail.com",
+  "email": "shrawnadeuba27@gmail.com",
   "gpa": "4.00",
   "about": "I automate things so I don't have to do them twice, then spend three hours debugging the automation. My pipelines are green, my coffee is strong, and \"it works on my machine\" is no longer an excuse, because I put my machine in a Docker container.",
   "skills": ["Linux", "Git", "GitHub Actions", "Docker", "Jenkins", "AWS", "CloudFormation", "Nginx", "React"],
   "links": {
-    "github": "https://github.com/Sammy4447",
-    "linkedin": "www.linkedin.com/in/er-sameer-bhatt-905562232"
+    "github": "https://github.com/shrawandeuba27-cpu",
+    "linkedin": "www.linkedin.com/in/shrawan-deuba"
   },
   "quotes": [
     "Stay hungry, stay foolish.",
